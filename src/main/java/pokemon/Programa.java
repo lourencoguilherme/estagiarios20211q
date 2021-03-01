@@ -3,7 +3,7 @@ package pokemon;
 public class Programa {
 
     public static void main(String[] args) {
-        Pokemon pokemon = new Pokemon();
+        Pokemon pokemon = new Pokemon("Pokemon", 2);
 
         //print(pokemon);
 
